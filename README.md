@@ -1,6 +1,6 @@
 # openGemini-forwarder
 High-performance data access middleware. For example, Kafka data can be consumed, converted and written into openGemini.
-
+#### Currently, it is only a framework, and the specific functions will take some time to complete.
 
 
 ## Quick Start
